@@ -28,7 +28,7 @@
 
 ### Contact With Me
 
-![emailto:farruhbekolimov3904@gmail.com](https://img.shields.io/badge/-amriyevuz@gmail.com-082032?style=for-the-badge&logo=Gmail&logoColor=#EA4335)
+![emailto:farruhbekolimov3904@gmail.com](https://img.shields.io/badge/-farruhbekolimov3904@gmail.com-082032?style=for-the-badge&logo=Gmail&logoColor=#EA4335)
 [![Telegram](https://img.shields.io/badge/-Telegram-082032?style=for-the-badge&logo=Telegram&logoColor=#26A5E4)](https://t.me/ulugbekovich_f)
 
 
