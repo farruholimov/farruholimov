@@ -28,10 +28,10 @@
 
 ### Contact With Me
 
-![emailto:farruhbekolimov3904@gmail.com](https://img.shields.io/badge/-farruhbekolimov3904@gmail.com-082032?style=for-the-badge&logo=Gmail&logoColor=#EA4335)
 [![Telegram](https://img.shields.io/badge/-Telegram-082032?style=for-the-badge&logo=Telegram&logoColor=#26A5E4)](https://t.me/ulugbekovich_f)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=farruholimov&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farruholimov&show_icons=true&bg_color=50,6666ff,00cc99&title_color=fff&text_color=fff&icon_color=f2f2f2&locale=en&layout=compact&count-private=true" alt="bilgecakar" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Asarvarjon&langs_count=8&theme=vue)](https://github.com/anuraghazra/github-readme-stats) 
+<p>&nbsp;
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=farruholimov&show_icons=true&bg_color=50,6666ff,00cc99&title_color=fff&text_color=fff&icon_color=f2f2f2&locale=en&count_private=true&hide=issues" alt="bilgecakar" width="50%" /></p>
