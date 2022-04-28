@@ -1,4 +1,4 @@
-## Farrukh Olimov | Web developer
+# Hello! I'm Farrukh
 
 ### Languages and Tools
 
@@ -29,6 +29,7 @@
 ### Contact With Me
 
 [![Telegram](https://img.shields.io/badge/-Telegram-082032?style=for-the-badge&logo=Telegram&logoColor=#26A5E4)](https://t.me/ulugbekovich_f)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-082032?style=for-the-badge&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/in/farruh-olimov)
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farruholimov&show_icons=true&bg_color=50,6666ff,00cc99&title_color=fff&text_color=fff&icon_color=f2f2f2&locale=en&layout=compact&count-private=true" alt="bilgecakar" /></p>
